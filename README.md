@@ -37,3 +37,6 @@ $ createFeatMatrix("PreprocessedData_May20", "Participant_Data_test2")
   $ stitchUp('23Jul09_Extracted_Features')
 
   - this combined output Excel file can be fed into the Python classical supervised learning module
+
+
+NB. Additional optional helper MATLAB functions, such as plotter and freq_time_plot are also included to produce visuals of processed data.
